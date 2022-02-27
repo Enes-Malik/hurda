@@ -1,0 +1,25 @@
+
+.wrapper {
+    position: relative;
+    background-color: #fdfbfb;
+    margin: 0;
+    padding: 0;
+}
+
+.top>div {
+    display: inline;
+}
+
+.tel {
+    margin-right: 0px;
+}
+
+.nav-bar>ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar>ul>li {
+    display: inline;
+}
